@@ -35,6 +35,7 @@ Feel free to add your own project(s)—just fork and make a pull request! We sug
 - **[PrismLauncher/PrismLauncher](https://github.com/PrismLauncher/PrismLauncher)** - A power-user launcher for Minecraft that allows you to easily manage multiple installations at once (fork of MultiMC)
 - **[QuestCraftPlusPlus/QuestCraft](https://github.com/QuestCraftPlusPlus/QuestCraft)** - A port of Minecraft: Java Edition to the Meta Quest Platform
 - **[Voxelum/x-minecraft-launcher](https://github.com/Voxelum/x-minecraft-launcher)** - A Minecraft launcher focusing on modern UX and disk efficiency
+- **[d3ara1n/Polymerium](https://github.com/d3ara1n/Polymerium)** - 🐿️ A next-generation Minecraft instance manager that thinks differently about game management 
 
 ## Libraries
 
