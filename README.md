@@ -55,6 +55,7 @@ Feel free to add your own project(s)—just fork and make a pull request! We sug
 - **[gorilla-devs/ferium](https://github.com/gorilla-devs/ferium)** - Fast and multi-source CLI program for managing Minecraft mods and modpacks from Modrinth, CurseForge, and GitHub Releases
 - **[IshimiMC/ishimi](https://github.com/IshimiMC/ishimi)** - A mod manager for Minecraft
 - **[b1tcr4sh/Lodestar](https://github.com/b1tcr4sh/Lodestar)** - A package/mod manager built for Modrinth's API
+- **[ThunderClapLP/mc-get](https://github.com/ThunderClapLP/mc-get)** - A CLI application to download and install mods and modpacks for Minecraft or a Minecraft server
 - **[calliecameron/mc-mod-compatibility](https://github.com/calliecameron/mc-mod-compatibility)** - A script to check whether Minecraft modpacks are compatible with newer game versions
 - **[un-pogaz/MC-Modrinth-Project-Manager](https://github.com/un-pogaz/MC-Modrinth-Project-Manager)** - A simple Python CLI Project Manager for Minecraft and Modrinth. Support Mods, Resource Packs, Shaders, Data Packs.
 - **[ParadigmMC/mcman](https://github.com/ParadigmMC/mcman)** - A git-compatible, config-based Minecraft server management CLI that supports many sources
